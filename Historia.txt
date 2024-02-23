@@ -13,3 +13,5 @@ Me largué un pedo y tuvo feo olor
 Hoy estoy estudiando muy temprano y tomando mate
 
 Este es mi experimento para entender git branch. Esta es una nueva rama
+
+Ahora vamos a experimentar con git merge para unir ramas
